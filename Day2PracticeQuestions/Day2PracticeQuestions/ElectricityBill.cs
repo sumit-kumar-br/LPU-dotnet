@@ -23,5 +23,10 @@ public class ElectricityBill
         {
             amt = (units-599)*2.00 + 200*1.80 + 200*1.50 + 199*1.20;
         }
+        if(units>400)
+        {
+            amt += amt*15/100;
+        }
+        System.Console.WriteLine("Total bill: Rs.{0}",amt);
     }
 }

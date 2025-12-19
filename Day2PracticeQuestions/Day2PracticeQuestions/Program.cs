@@ -44,15 +44,27 @@ using Day2PracticeQuestions;
 // QuadraticEquation.QuadEquation(a,b,c);
 
 // 5. Admission Eligiblity
-int math;
-int phy;
-int che;
-System.Console.WriteLine("Enter marks of Maths: ");
-math=Int32.Parse(Console.ReadLine());
-System.Console.WriteLine("Enter marks of Physics: ");
-phy=Int32.Parse(Console.ReadLine());
-System.Console.WriteLine("Enter marks of Chemistry: ");
-che=Int32.Parse(Console.ReadLine());
-AdmissionEligibility.IsEligible(math,phy,che);
+// int math;
+// int phy;
+// int che;
+// System.Console.WriteLine("Enter marks of Maths: ");
+// math=Int32.Parse(Console.ReadLine());
+// System.Console.WriteLine("Enter marks of Physics: ");
+// phy=Int32.Parse(Console.ReadLine());
+// System.Console.WriteLine("Enter marks of Chemistry: ");
+// che=Int32.Parse(Console.ReadLine());
+// AdmissionEligibility.IsEligible(math,phy,che);
+
+// 6. Electricity Bill
+// int units;
+// System.Console.WriteLine("Enter the number of units consumed: ");
+// units = Int32.Parse(Console.ReadLine());
+// ElectricityBill.CalculateBill(units);
+
+// 7. Vowel or Consonant
+char ch;
+System.Console.WriteLine("Enter the character: ");
+ch = Char.Parse(Console.ReadLine());
+VowelOrConsonants.IsVowelOrConsonant(ch);
 
 

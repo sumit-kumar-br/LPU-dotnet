@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CS\\Day2PracticeQuestions\\Day2PracticeQuestions\\Day2PracticeQuestions.csproj",
+      "projectUniqueName": "C:\\CS\\LPU-dotnet\\Day2PracticeQuestions\\Day2PracticeQuestions\\Day2PracticeQuestions.csproj",
       "projectName": "Day2PracticeQuestions",
-      "projectPath": "C:\\CS\\Day2PracticeQuestions\\Day2PracticeQuestions\\Day2PracticeQuestions.csproj",
+      "projectPath": "C:\\CS\\LPU-dotnet\\Day2PracticeQuestions\\Day2PracticeQuestions\\Day2PracticeQuestions.csproj",
       "packagesPath": "C:\\Users\\roys9\\.nuget\\packages\\",
-      "outputPath": "C:\\CS\\Day2PracticeQuestions\\Day2PracticeQuestions\\obj\\",
+      "outputPath": "C:\\CS\\LPU-dotnet\\Day2PracticeQuestions\\Day2PracticeQuestions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roys9\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,14 @@
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\bin\Debug\net8.0\Day2PracticeQuestions.exe
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\bin\Debug\net8.0\Day2PracticeQuestions.deps.json
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\bin\Debug\net8.0\Day2PracticeQuestions.runtimeconfig.json
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\bin\Debug\net8.0\Day2PracticeQuestions.dll
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\bin\Debug\net8.0\Day2PracticeQuestions.pdb
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.AssemblyInfoInputs.cache
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.AssemblyInfo.cs
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.csproj.CoreCompileInputs.cache
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.dll
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\refint\Day2PracticeQuestions.dll
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.pdb
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\Day2PracticeQuestions.genruntimeconfig.cache
+C:\CS\Day2PracticeQuestions\Day2PracticeQuestions\obj\Debug\net8.0\ref\Day2PracticeQuestions.dll

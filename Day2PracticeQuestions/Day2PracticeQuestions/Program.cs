@@ -7,26 +7,28 @@ using Day2PracticeQuestions;
 
  
 // 1. Height Category
-// HeightCategory.HeightMain(height);
+// HeightCategory.HeightMain();
     
 // 2. Largest of Three
-// LargestOfThree.Largest(num1, num2, num3);
+// LargestOfThree.Largest();
 
 
 // 3. Leap Year Checker
-// LeapYearChecker.CheckLeapYear(year);
+// LeapYearChecker.CheckLeapYear();
 
 
 // 4. Quadratic Expression
-// QuadraticEquation.QuadEquation(a,b,c);
+// QuadraticEquation.QuadEquation();
 
 // 5. Admission Eligiblity
-// AdmissionEligibility.IsEligible(math,phy,che);
+// AdmissionEligibility.IsEligible();
 
 // 6. Electricity Bill
-// ElectricityBill.CalculateBill(units);
+// ElectricityBill.CalculateBill();
 
 // 7. Vowel or Consonant
-VowelOrConsonants.IsVowelOrConsonant(ch);
+// VowelOrConsonants.IsVowelOrConsonant();
 
+// 8. Triangle Type
+TriangleType.checkType();
 

@@ -4,8 +4,18 @@ namespace Day2PracticeQuestions;
 
 public class QuadraticEquation
 {
-    public static void QuadEquation(int a, int b, int c)
+    public static void QuadEquation()
     {
+        int a;
+        int b;
+        int c;
+        System.Console.WriteLine("Enter a: ");
+        a = Int32.Parse(Console.ReadLine());
+        System.Console.WriteLine("Enter b: ");
+        b = Int32.Parse(Console.ReadLine());
+        System.Console.WriteLine("Enter c: ");
+        c = Int32.Parse(Console.ReadLine());
+
         double d = b*b-4*a*c;
         if(d<0)
         {

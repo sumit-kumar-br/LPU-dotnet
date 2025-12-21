@@ -4,8 +4,10 @@ namespace Day2PracticeQuestions;
 
 public class HeightCategory
 {
-    public static void HeightMain(int height)
+    public static void HeightMain()
     {
+        System.Console.WriteLine("Enter height");
+        int height=Int32.Parse(Console.ReadLine());
         if(height<150)
         {
             System.Console.WriteLine("Dwarf");

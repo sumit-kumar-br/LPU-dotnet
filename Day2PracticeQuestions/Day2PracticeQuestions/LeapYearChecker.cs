@@ -4,8 +4,12 @@ namespace Day2PracticeQuestions;
 
 public class LeapYearChecker
 {
-    public static void CheckLeapYear(int year)
+    public static void CheckLeapYear()
     {
+        int year;
+        System.Console.WriteLine("Enter the year");
+        year=Int32.Parse(Console.ReadLine());
+
         if(year % 400 == 0)
         {
             System.Console.WriteLine("It's a leap year");

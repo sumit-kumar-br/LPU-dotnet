@@ -4,8 +4,12 @@ namespace Day2PracticeQuestions;
 
 public class ElectricityBill
 {
-    public static void CalculateBill(int units)
+    public static void CalculateBill()
     {
+        int units;
+        System.Console.WriteLine("Enter the number of units consumed: ");
+        units = Int32.Parse(Console.ReadLine());
+
         double amt;
         if(units <= 199)
         {

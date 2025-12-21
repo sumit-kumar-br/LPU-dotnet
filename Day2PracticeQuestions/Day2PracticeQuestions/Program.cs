@@ -33,4 +33,7 @@ using Day2PracticeQuestions;
 // TriangleType.checkType();
 
 // 9. Quadrant Finder
-QuadrantFinder.FindQuadrant();
+// QuadrantFinder.FindQuadrant();
+
+// 10. Grade Description
+GradeDescription.FindGrade();

@@ -30,5 +30,7 @@ using Day2PracticeQuestions;
 // VowelOrConsonants.IsVowelOrConsonant();
 
 // 8. Triangle Type
-TriangleType.checkType();
+// TriangleType.checkType();
 
+// 9. Quadrant Finder
+QuadrantFinder.FindQuadrant();

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F09455-3DD8-454F-B5C9-F5CBF90BF5C0}|Day4OOPDemo\\Day4OOPDemo.csproj|c:\\cs\\lpu-dotnet\\day4oopdemo\\day4oopdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F09455-3DD8-454F-B5C9-F5CBF90BF5C0}|Day4OOPDemo\\Day4OOPDemo.csproj|solutionrelative:day4oopdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F09455-3DD8-454F-B5C9-F5CBF90BF5C0}|Day4OOPDemo\\Day4OOPDemo.csproj|c:\\cs\\lpu-dotnet\\day4oopdemo\\day4oopdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F09455-3DD8-454F-B5C9-F5CBF90BF5C0}|Day4OOPDemo\\Day4OOPDemo.csproj|solutionrelative:day4oopdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F09455-3DD8-454F-B5C9-F5CBF90BF5C0}|Day4OOPDemo\\Day4OOPDemo.csproj|c:\\cs\\lpu-dotnet\\day4oopdemo\\day4oopdemo\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F09455-3DD8-454F-B5C9-F5CBF90BF5C0}|Day4OOPDemo\\Day4OOPDemo.csproj|solutionrelative:day4oopdemo\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\Day4OOPDemo\\Manager.cs",
+              "RelativeDocumentMoniker": "Day4OOPDemo\\Manager.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\Day4OOPDemo\\Manager.cs",
+              "RelativeToolTip": "Day4OOPDemo\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:52:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\Day4OOPDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "Day4OOPDemo\\Employee.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\Day4OOPDemo\\Employee.cs",
+              "RelativeToolTip": "Day4OOPDemo\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:51:34.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\Day4OOPDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Day4OOPDemo\\Program.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Day4OOPDemo\\Day4OOPDemo\\Program.cs",
+              "RelativeToolTip": "Day4OOPDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:32.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

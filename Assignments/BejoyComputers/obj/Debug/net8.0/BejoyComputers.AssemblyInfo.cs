@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BejoyComputers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e356a8d79077c363c5e91288f9d5d6eeea7a8962")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f492f065968618e0b4b9683d44d0da820008da7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BejoyComputers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BejoyComputers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

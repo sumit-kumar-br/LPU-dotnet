@@ -6,23 +6,51 @@ public class Laptop: Computer
 {
     public int DisplaySize { get; set; }
     public int BatteryVolt { get; set; }
+    public int DisplayPrice { get; } = 250;
+    public int BatteryVoltPrice { get; } = 20;
     public double LaptopPriceCalculation()
     {
-        double totalCost=0.0;
+        switch (Processor)
+        {
+            case "i3":
+                {
+                    ProcessorCost = 1500;
+                    break;
+                }
+            case "i5":
+                {
+                    ProcessorCost = 3000;
+                    break;
+                }
+            case "i7":
+                {
+                    ProcessorCost = 4500;
+                    break;
+                }
+            default:
+                {
+                    break;
+                }
+
+        }
+        double desktopCost=0.0;
         if(Processor == "i3")
         {
-            totalCost = 2500 + (RamSize*200) + (HardDiskSize*1500) + (GraphicCard*2500) + 
-                (BatteryVolt*20) + (DisplaySize*250);
+            desktopCost = ProcessorCost + (RamSize * RamPrice) + (HardDiskSize * HardDiskPrice) + 
+            (GraphicCard * GraphicCardPrice) + (DisplaySize * DisplayPrice) + 
+            (BatteryVolt * BatteryVoltPrice);
         }
         else if(Processor == "i5"){
-            totalCost = 5000 + (RamSize*200) + (HardDiskSize*1500) + (GraphicCard*2500) + 
-                (BatteryVolt*20) + (DisplaySize*250);
+            desktopCost = ProcessorCost + (RamSize * RamPrice) + (HardDiskSize * HardDiskPrice) + 
+            (GraphicCard * GraphicCardPrice) + (DisplaySize * DisplayPrice) + 
+            (BatteryVolt * BatteryVoltPrice);
         }
         else if(Processor == "i7")
         {
-            totalCost = 6500 + (RamSize*200) + (HardDiskSize*1500) + (GraphicCard*2500) + 
-                (BatteryVolt*20) + (DisplaySize*250);
+            desktopCost = ProcessorCost + (RamSize * RamPrice) + (HardDiskSize * HardDiskPrice) + 
+            (GraphicCard * GraphicCardPrice) + (DisplaySize * DisplayPrice) + 
+            (BatteryVolt * BatteryVoltPrice);
         }
-        return totalCost;
+        return desktopCost;
     }
 }

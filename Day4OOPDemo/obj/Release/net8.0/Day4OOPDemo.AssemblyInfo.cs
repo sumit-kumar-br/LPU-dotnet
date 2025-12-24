@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day4OOPDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64cab28a58ca61b3f1de5506cb5cdf2300c814fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e356a8d79077c363c5e91288f9d5d6eeea7a8962")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day4OOPDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day4OOPDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

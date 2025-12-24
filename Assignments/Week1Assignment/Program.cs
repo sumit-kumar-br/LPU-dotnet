@@ -5,4 +5,7 @@ using Week1Assignment;
 
 // Console.WriteLine("Hello, World!");
 
-BubbleSort.Sort();
+// BubbleSort.Sort();
+// TypeCasting.TypeCast();
+EnumDataType.EnumType();
+

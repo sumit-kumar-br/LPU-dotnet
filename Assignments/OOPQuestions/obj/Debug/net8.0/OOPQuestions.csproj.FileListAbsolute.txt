@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\bin\Debug\net8.0\OOPQuestions.exe
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\bin\Debug\net8.0\OOPQuestions.deps.json
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\bin\Debug\net8.0\OOPQuestions.runtimeconfig.json
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\bin\Debug\net8.0\OOPQuestions.dll
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\bin\Debug\net8.0\OOPQuestions.pdb
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.sourcelink.json
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.dll
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\refint\OOPQuestions.dll
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.pdb
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\OOPQuestions.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Assignments\OOPQuestions\obj\Debug\net8.0\ref\OOPQuestions.dll

@@ -17,7 +17,7 @@ class Program
 
         Console.Write("Enter Invoice No: ");
         invoiceNo = Console.ReadLine();
-        if(invoiceNo != null)
+        if (invoiceNo != null)
         {
             sObj.InvoiceNo = invoiceNo;
         }
@@ -27,7 +27,7 @@ class Program
         sObj.ItemName = Console.ReadLine();
         Console.Write("Enter Quantity: ");
         quantity = Int32.Parse(Console.ReadLine());
-        if(quantity > 0)
+        if (quantity > 0)
         {
             sObj.Quantity = quantity;
         }
@@ -38,7 +38,7 @@ class Program
         }
         Console.Write("Enter Purchase Amount : ");
         purchaseAmount = Int32.Parse(Console.ReadLine());
-        if(purchaseAmount > 0)
+        if (purchaseAmount > 0)
         {
             sObj.PurchaseAmount = purchaseAmount;
         }
@@ -49,7 +49,7 @@ class Program
         }
         Console.Write("Enter Selling Amount: ");
         sellingAmount = Int32.Parse(Console.ReadLine());
-        if(sellingAmount >= 0)
+        if (sellingAmount >= 0)
         {
             sObj.SellingAmount = sellingAmount;
         }
@@ -58,12 +58,12 @@ class Program
             Console.Write("Please enter valid selling amount!!");
             return;
         }
-        if(sObj.SellingAmount > sObj.PurchaseAmount)
+        if (sObj.SellingAmount > sObj.PurchaseAmount)
         {
             sObj.ProfitOrLossStatus = "PROFIT";
             sObj.ProfitOrLossAmount = sObj.SellingAmount - sObj.PurchaseAmount;
-        } 
-        else if(sObj.SellingAmount < sObj.PurchaseAmount)
+        }
+        else if (sObj.SellingAmount < sObj.PurchaseAmount)
         {
             sObj.ProfitOrLossStatus = "LOSS";
             sObj.ProfitOrLossAmount = sObj.PurchaseAmount - sObj.SellingAmount;
@@ -73,7 +73,7 @@ class Program
             sObj.ProfitOrLossStatus = "BREAK-EVEN";
             sObj.ProfitOrLossAmount = 0;
         }
-        sObj.ProfitMarginPercent = (decimal)((double)sObj.ProfitOrLossAmount*100.0/(double)sObj.PurchaseAmount);
+        sObj.ProfitMarginPercent = (decimal)((double)sObj.ProfitOrLossAmount * 100.0 / (double)sObj.PurchaseAmount);
 
         LastTransaction = sObj;
         HasLastTransaction = true;
@@ -105,10 +105,34 @@ class Program
         }
         Console.WriteLine("--------------------------------");
     }
-    public static void Clear()
+    public static void CalculateProfitLoss()
     {
-        LastTransaction = null;
-        HasLastTransaction = false;
+        SaleTransaction sObj = new SaleTransaction();
+        if (HasLastTransaction)
+        {
+            if (sObj.SellingAmount > sObj.PurchaseAmount)
+            {
+                sObj.ProfitOrLossStatus = "PROFIT";
+                sObj.ProfitOrLossAmount = sObj.SellingAmount - sObj.PurchaseAmount;
+            }
+            else if (sObj.SellingAmount < sObj.PurchaseAmount)
+            {
+                sObj.ProfitOrLossStatus = "LOSS";
+                sObj.ProfitOrLossAmount = sObj.PurchaseAmount - sObj.SellingAmount;
+            }
+            else
+            {
+                sObj.ProfitOrLossStatus = "BREAK-EVEN";
+                sObj.ProfitOrLossAmount = 0;
+            }
+            sObj.ProfitMarginPercent = (decimal)((double)sObj.ProfitOrLossAmount * 100.0 / (double)sObj.PurchaseAmount);
+
+        }
+        else
+        {
+            Console.WriteLine("No transaction available. Please create a new transaction first.");
+        }
+        Console.WriteLine("--------------------------------");
     }
     public static void Main(string[] args)
     {

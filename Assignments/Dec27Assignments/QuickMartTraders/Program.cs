@@ -37,7 +37,7 @@ class Program
             return;
         }
         Console.Write("Enter Purchase Amount : ");
-        purchaseAmount = Int32.Parse(Console.ReadLine());
+        purchaseAmount = decimal.Parse(Console.ReadLine());
         if (purchaseAmount > 0)
         {
             sObj.PurchaseAmount = purchaseAmount;
@@ -48,7 +48,7 @@ class Program
             return;
         }
         Console.Write("Enter Selling Amount: ");
-        sellingAmount = Int32.Parse(Console.ReadLine());
+        sellingAmount = decimal.Parse(Console.ReadLine());
         if (sellingAmount >= 0)
         {
             sObj.SellingAmount = sellingAmount;
@@ -73,7 +73,7 @@ class Program
             sObj.ProfitOrLossStatus = "BREAK-EVEN";
             sObj.ProfitOrLossAmount = 0;
         }
-        sObj.ProfitMarginPercent = (decimal)((double)sObj.ProfitOrLossAmount * 100.0 / (double)sObj.PurchaseAmount);
+        sObj.ProfitMarginPercent = (sObj.ProfitOrLossAmount / sObj.PurchaseAmount) * 100;
 
         LastTransaction = sObj;
         HasLastTransaction = true;
@@ -105,28 +105,28 @@ class Program
         }
         Console.WriteLine("--------------------------------");
     }
-    public static void CalculateProfitLoss()
+    public static void ReCalculateProfitLoss()
     {
-        SaleTransaction sObj = new SaleTransaction();
         if (HasLastTransaction)
         {
-            if (sObj.SellingAmount > sObj.PurchaseAmount)
+            if (LastTransaction.SellingAmount > LastTransaction.PurchaseAmount)
             {
-                sObj.ProfitOrLossStatus = "PROFIT";
-                sObj.ProfitOrLossAmount = sObj.SellingAmount - sObj.PurchaseAmount;
+                LastTransaction.ProfitOrLossStatus = "PROFIT";
+                LastTransaction.ProfitOrLossAmount = LastTransaction.SellingAmount - LastTransaction.PurchaseAmount;
             }
-            else if (sObj.SellingAmount < sObj.PurchaseAmount)
+            else if (LastTransaction.SellingAmount < LastTransaction.PurchaseAmount)
             {
-                sObj.ProfitOrLossStatus = "LOSS";
-                sObj.ProfitOrLossAmount = sObj.PurchaseAmount - sObj.SellingAmount;
+                LastTransaction.ProfitOrLossStatus = "LOSS";
+                LastTransaction.ProfitOrLossAmount = LastTransaction.PurchaseAmount - LastTransaction.SellingAmount;
+    
             }
             else
             {
-                sObj.ProfitOrLossStatus = "BREAK-EVEN";
-                sObj.ProfitOrLossAmount = 0;
+                LastTransaction.ProfitOrLossStatus = "BREAK-EVEN";
+                LastTransaction.ProfitOrLossAmount = 0;
             }
-            sObj.ProfitMarginPercent = (decimal)((double)sObj.ProfitOrLossAmount * 100.0 / (double)sObj.PurchaseAmount);
-
+            LastTransaction.ProfitMarginPercent = (LastTransaction.ProfitOrLossAmount / LastTransaction.PurchaseAmount) * 100;
+            View();
         }
         else
         {
@@ -139,7 +139,7 @@ class Program
         bool running = true;
         while (running)
         {
-            Console.WriteLine("================== MediSure Clinic Billing ==================");
+            Console.WriteLine("================== QuickMart Traders ==================");
             Console.WriteLine("1. Create New Transaction (Enter Purchase & Selling Details)");
             Console.WriteLine("2. View Last Transaction");
             Console.WriteLine("3. Calculate Profit/Loss (Recompute & Print)");
@@ -161,7 +161,7 @@ class Program
                     }
                 case 3:
                     {
-                        Clear();
+                        ReCalculateProfitLoss();
                         break;
                     }
                 case 4:

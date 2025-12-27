@@ -7,7 +7,7 @@ class Program
 {
     static SaleTransaction LastTransaction = null;
     static bool HasLastTransaction = false;
-    public static void register()
+    public static void Register()
     {
         string invoiceNo;
         int quantity;
@@ -74,6 +74,10 @@ class Program
             sObj.ProfitOrLossAmount = 0;
         }
         sObj.ProfitMarginPercent = (decimal)((double)sObj.ProfitOrLossAmount*100.0/(double)sObj.PurchaseAmount);
+
+        LastTransaction = sObj;
+        HasLastTransaction = true;
+
         Console.WriteLine("Transaction saved sucessfully. ");
         Console.WriteLine($"Status: {sObj.ProfitOrLossStatus}");
         Console.WriteLine($"Profit/Loss Amount: {sObj.ProfitOrLossAmount:F2}");
@@ -84,22 +88,15 @@ class Program
         if (HasLastTransaction)
         {
             Console.WriteLine("----------- Last Transaction -----------");
-            Console.WriteLine($"InvoiceNo: {LastBill.InvoiceNo}");
-            Console.WriteLine($"Patient: {LastBill.PatientName}");
-            if (LastBill.HasInsurance)
-            {
-                Console.WriteLine($"Insured: Yes");
-            }
-            else
-            {
-                Console.WriteLine($"Insured: No");
-            }
-            Console.WriteLine($"Consultation Fee: {LastBill.ConsultationFee:F2}");
-            Console.WriteLine($"Lab Charges: {LastBill.LabCharges:F2}");
-            Console.WriteLine($"Medicine Charges: {LastBill.MedicineCharges:F2}");
-            Console.WriteLine($"Gross Amount: {LastBill.GrossAmount:F2}");
-            Console.WriteLine($"Discount Amount: {LastBill.DiscountAmount:F2}");
-            Console.WriteLine($"Final Payable: {LastBill.FinalPayable:F2}");
+            Console.WriteLine($"InvoiceNo: {LastTransaction.InvoiceNo}");
+            Console.WriteLine($"Customer: {LastTransaction.CustomerName}");
+            Console.WriteLine($"Item: {LastTransaction.ItemName}");
+            Console.WriteLine($"Quantity: {LastTransaction.Quantity}");
+            Console.WriteLine($"Purchase Amount: {LastTransaction.PurchaseAmount:F2}");
+            Console.WriteLine($"Selling Amount: {LastTransaction.SellingAmount:F2}");
+            Console.WriteLine($"Status: {LastTransaction.ProfitOrLossStatus}");
+            Console.WriteLine($"Profit/Loss Amount: {LastTransaction.ProfitOrLossAmount:F2}");
+            Console.WriteLine($"Profit Margin (%): {LastTransaction.ProfitMarginPercent:F2}");
 
         }
         else
@@ -107,5 +104,54 @@ class Program
             Console.WriteLine("No transaction available. Please create a new transaction first.");
         }
         Console.WriteLine("--------------------------------");
+    }
+    public static void Clear()
+    {
+        LastTransaction = null;
+        HasLastTransaction = false;
+    }
+    public static void Main(string[] args)
+    {
+        bool running = true;
+        while (running)
+        {
+            Console.WriteLine("================== MediSure Clinic Billing ==================");
+            Console.WriteLine("1. Create New Transaction (Enter Purchase & Selling Details)");
+            Console.WriteLine("2. View Last Transaction");
+            Console.WriteLine("3. Calculate Profit/Loss (Recompute & Print)");
+            Console.WriteLine("4. Exit");
+            int ch;
+            Console.Write("Enter your option: ");
+            ch = Int32.Parse(Console.ReadLine());
+            switch (ch)
+            {
+                case 1:
+                    {
+                        Register();
+                        break;
+                    }
+                case 2:
+                    {
+                        View();
+                        break;
+                    }
+                case 3:
+                    {
+                        Clear();
+                        break;
+                    }
+                case 4:
+                    {
+                        Console.WriteLine("Thank you. Application closed normally.");
+                        return;
+                    }
+                default:
+                    {
+                        Console.WriteLine("Invalid option!!! Please choice a valid option");
+                        break;
+                    }
+            }
+
+        }
     }
 }

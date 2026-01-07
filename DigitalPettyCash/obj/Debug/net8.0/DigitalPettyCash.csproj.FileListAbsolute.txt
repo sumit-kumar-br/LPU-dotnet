@@ -1,0 +1,14 @@
+C:\CS\LPU-dotnet\DigitalPettyCash\bin\Debug\net8.0\DigitalPettyCash.exe
+C:\CS\LPU-dotnet\DigitalPettyCash\bin\Debug\net8.0\DigitalPettyCash.deps.json
+C:\CS\LPU-dotnet\DigitalPettyCash\bin\Debug\net8.0\DigitalPettyCash.runtimeconfig.json
+C:\CS\LPU-dotnet\DigitalPettyCash\bin\Debug\net8.0\DigitalPettyCash.dll
+C:\CS\LPU-dotnet\DigitalPettyCash\bin\Debug\net8.0\DigitalPettyCash.pdb
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.AssemblyInfo.cs
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.dll
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\refint\DigitalPettyCash.dll
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.pdb
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.genruntimeconfig.cache
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\ref\DigitalPettyCash.dll

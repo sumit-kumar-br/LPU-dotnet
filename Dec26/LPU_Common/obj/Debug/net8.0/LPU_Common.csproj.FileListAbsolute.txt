@@ -1,0 +1,16 @@
+C:\CS\LPU-dotnet\Dec26\LPU_Common\bin\Debug\net8.0\LPU_Common.deps.json
+C:\CS\LPU-dotnet\Dec26\LPU_Common\bin\Debug\net8.0\LPU_Common.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Common\bin\Debug\net8.0\LPU_Common.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Common\bin\Debug\net8.0\LPU_Entity.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Common\bin\Debug\net8.0\LPU_Entity.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.sourcelink.json
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.csproj.Up2Date
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\refint\LPU_Common.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\LPU_Common.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Common\obj\Debug\net8.0\ref\LPU_Common.dll

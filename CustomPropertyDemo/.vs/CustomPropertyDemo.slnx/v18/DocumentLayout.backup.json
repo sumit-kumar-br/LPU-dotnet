@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\cs\\lpu-dotnet\\custompropertydemo\\custompropertydemo\\primecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\primecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\cs\\lpu-dotnet\\custompropertydemo\\custompropertydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\cs\\lpu-dotnet\\custompropertydemo\\custompropertydemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\cs\\lpu-dotnet\\custompropertydemo\\custompropertydemo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|c:\\cs\\lpu-dotnet\\custompropertydemo\\custompropertydemo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A43DAF-E88C-4B9E-A60F-CEBD3CBD0335}|CustomPropertyDemo\\CustomPropertyDemo.csproj|solutionrelative:custompropertydemo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Program.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Program.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:30:19.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeCustomer.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\PrimeCustomer.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\PrimeCustomer.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\PrimeCustomer.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\PrimeCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:22:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Orders.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Orders.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Orders.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:38:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Customer.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Customer.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Customer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:32:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Address.cs",
+              "RelativeDocumentMoniker": "CustomPropertyDemo\\Address.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\CustomPropertyDemo\\CustomPropertyDemo\\Address.cs",
+              "RelativeToolTip": "CustomPropertyDemo\\Address.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:32:22.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

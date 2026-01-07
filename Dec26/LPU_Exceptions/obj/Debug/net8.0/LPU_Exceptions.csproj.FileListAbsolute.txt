@@ -1,0 +1,12 @@
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\bin\Debug\net8.0\LPU_Exceptions.deps.json
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\bin\Debug\net8.0\LPU_Exceptions.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\bin\Debug\net8.0\LPU_Exceptions.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.sourcelink.json
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\refint\LPU_Exceptions.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\LPU_Exceptions.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Exceptions\obj\Debug\net8.0\ref\LPU_Exceptions.dll

@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net8.0\CustomPropertyDemo.exe
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net8.0\CustomPropertyDemo.deps.json
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net8.0\CustomPropertyDemo.runtimeconfig.json
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net8.0\CustomPropertyDemo.dll
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\bin\Debug\net8.0\CustomPropertyDemo.pdb
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.AssemblyInfo.cs
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.sourcelink.json
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.dll
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\refint\CustomPropertyDemo.dll
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.pdb
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\CustomPropertyDemo.genruntimeconfig.cache
+C:\CS\LPU-dotnet\CustomPropertyDemo\CustomPropertyDemo\obj\Debug\net8.0\ref\CustomPropertyDemo.dll

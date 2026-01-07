@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS\\LPU-dotnet\\Dec26a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\DummyClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dec26b\\DummyClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CS\\LPU-dotnet\\Dec26a\\Dec26a\\Dec26a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dec26a\\Dec26a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\SampleClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dec26b\\SampleClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dec26b\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CS\\LPU-dotnet\\Dec26a\\Dec26a\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dec26a\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dec26a.csproj",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26a\\Dec26a.csproj",
+              "RelativeDocumentMoniker": "Dec26a\\Dec26a.csproj",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26a\\Dec26a.csproj",
+              "RelativeToolTip": "Dec26a\\Dec26a.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T07:05:19.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DummyClass.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\DummyClass.cs",
+              "RelativeDocumentMoniker": "Dec26b\\DummyClass.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\DummyClass.cs",
+              "RelativeToolTip": "Dec26b\\DummyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:33:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleClass.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\SampleClass.cs",
+              "RelativeDocumentMoniker": "Dec26b\\SampleClass.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\SampleClass.cs",
+              "RelativeToolTip": "Dec26b\\SampleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:33:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\Class1.cs",
+              "RelativeDocumentMoniker": "Dec26b\\Class1.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26b\\Class1.cs",
+              "RelativeToolTip": "Dec26b\\Class1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:23:06.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26a\\Program.cs",
+              "RelativeDocumentMoniker": "Dec26a\\Program.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26a\\Dec26a\\Program.cs",
+              "RelativeToolTip": "Dec26a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:22:14.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

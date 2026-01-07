@@ -1,0 +1,14 @@
+C:\CS\Day2Demo\Day2DemoConsole\bin\Debug\net8.0\Day2DemoConsole.exe
+C:\CS\Day2Demo\Day2DemoConsole\bin\Debug\net8.0\Day2DemoConsole.deps.json
+C:\CS\Day2Demo\Day2DemoConsole\bin\Debug\net8.0\Day2DemoConsole.runtimeconfig.json
+C:\CS\Day2Demo\Day2DemoConsole\bin\Debug\net8.0\Day2DemoConsole.dll
+C:\CS\Day2Demo\Day2DemoConsole\bin\Debug\net8.0\Day2DemoConsole.pdb
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.AssemblyInfoInputs.cache
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.AssemblyInfo.cs
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.csproj.CoreCompileInputs.cache
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.dll
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\refint\Day2DemoConsole.dll
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.pdb
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\Day2DemoConsole.genruntimeconfig.cache
+C:\CS\Day2Demo\Day2DemoConsole\obj\Debug\net8.0\ref\Day2DemoConsole.dll

@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Day3Demo\bin\Debug\net8.0\Day3Demo.exe
+C:\CS\LPU-dotnet\Day3Demo\bin\Debug\net8.0\Day3Demo.deps.json
+C:\CS\LPU-dotnet\Day3Demo\bin\Debug\net8.0\Day3Demo.runtimeconfig.json
+C:\CS\LPU-dotnet\Day3Demo\bin\Debug\net8.0\Day3Demo.dll
+C:\CS\LPU-dotnet\Day3Demo\bin\Debug\net8.0\Day3Demo.pdb
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.sourcelink.json
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.dll
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\refint\Day3Demo.dll
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.pdb
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\Day3Demo.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Day3Demo\obj\Debug\net8.0\ref\Day3Demo.dll

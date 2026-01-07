@@ -1,0 +1,18 @@
+﻿namespace LPU_Entity
+{
+    public enum CourseType
+    {
+        Mechanical,
+        Electrical,
+        Civil,
+        CSE,
+        IT
+    }
+    public class Student
+    {
+        public int StudentId { get; set; }
+        public string Name { get; set; }
+        public CourseType Course { get; set; } // property of type Enum
+        public string Address { get; set; }
+    }
+}

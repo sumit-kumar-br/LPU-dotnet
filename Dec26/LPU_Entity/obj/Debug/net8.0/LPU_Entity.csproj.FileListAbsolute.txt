@@ -1,0 +1,12 @@
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\bin\Debug\net8.0\LPU_Entity.deps.json
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\bin\Debug\net8.0\LPU_Entity.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\bin\Debug\net8.0\LPU_Entity.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.sourcelink.json
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\refint\LPU_Entity.dll
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\LPU_Entity.pdb
+C:\CS\LPU-dotnet\Dec26\LPU_Entity\obj\Debug\net8.0\ref\LPU_Entity.dll

@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\bin\Debug\net8.0\QuickMartTraders.exe
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\bin\Debug\net8.0\QuickMartTraders.deps.json
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\bin\Debug\net8.0\QuickMartTraders.runtimeconfig.json
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\bin\Debug\net8.0\QuickMartTraders.dll
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\bin\Debug\net8.0\QuickMartTraders.pdb
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.sourcelink.json
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.dll
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\refint\QuickMartTraders.dll
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.pdb
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\QuickMartTraders.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Assignments\Dec27Assignments\QuickMartTraders\obj\Debug\net8.0\ref\QuickMartTraders.dll

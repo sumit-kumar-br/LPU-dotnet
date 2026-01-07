@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SzEGSNM8QM=",
+  "success": true,
+  "projectFilePath": "C:\\CS\\Classwork\\EMS_Soln\\EMS_DAL\\EMS_DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

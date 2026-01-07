@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\bin\Debug\net8.0\OpearatorOverloadingDemo.exe
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\bin\Debug\net8.0\OpearatorOverloadingDemo.deps.json
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\bin\Debug\net8.0\OpearatorOverloadingDemo.runtimeconfig.json
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\bin\Debug\net8.0\OpearatorOverloadingDemo.dll
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\bin\Debug\net8.0\OpearatorOverloadingDemo.pdb
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.AssemblyInfo.cs
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.sourcelink.json
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.dll
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\refint\OpearatorOverloadingDemo.dll
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.pdb
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\OpearatorOverloadingDemo.genruntimeconfig.cache
+C:\CS\LPU-dotnet\OpearatorOverloadingDemo\obj\Debug\net8.0\ref\OpearatorOverloadingDemo.dll

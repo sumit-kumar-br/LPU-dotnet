@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.exe
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.deps.json
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.runtimeconfig.json
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.dll
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\bin\Debug\net8.0\EmployeeSalarySystem.pdb
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.sourcelink.json
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.dll
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\refint\EmployeeSalarySystem.dll
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.pdb
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\EmployeeSalarySystem.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Assignments\EmployeeSalarySystem\obj\Debug\net8.0\ref\EmployeeSalarySystem.dll

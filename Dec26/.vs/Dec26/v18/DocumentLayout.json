@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS\\LPU-dotnet\\Dec26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|c:\\cs\\lpu-dotnet\\dec26\\lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|solutionrelative:lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18317590-9BAD-F9A4-5DDE-7BA01CBAC2FF}|LPU_DAL\\LPU_DAL.csproj|c:\\cs\\lpu-dotnet\\dec26\\lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18317590-9BAD-F9A4-5DDE-7BA01CBAC2FF}|LPU_DAL\\LPU_DAL.csproj|solutionrelative:lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5352B91A-6E04-90B1-D9FC-1ADD574DD2BF}|LPU_BL\\LPU_BL.csproj|c:\\cs\\lpu-dotnet\\dec26\\lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5352B91A-6E04-90B1-D9FC-1ADD574DD2BF}|LPU_BL\\LPU_BL.csproj|solutionrelative:lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 171,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDAO.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_DAL\\StudentDAO.cs",
+              "RelativeDocumentMoniker": "LPU_DAL\\StudentDAO.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_DAL\\StudentDAO.cs",
+              "RelativeToolTip": "LPU_DAL\\StudentDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:44:10.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_UI\\Program.cs",
+              "RelativeDocumentMoniker": "LPU_UI\\Program.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_UI\\Program.cs",
+              "RelativeToolTip": "LPU_UI\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:23:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_BL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "LPU_BL\\StudentBL.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_BL\\StudentBL.cs",
+              "RelativeToolTip": "LPU_BL\\StudentBL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:10:48.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

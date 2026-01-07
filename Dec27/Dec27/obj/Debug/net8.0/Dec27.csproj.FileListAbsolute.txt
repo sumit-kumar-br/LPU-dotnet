@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Dec27\Dec27\bin\Debug\net8.0\Dec27.exe
+C:\CS\LPU-dotnet\Dec27\Dec27\bin\Debug\net8.0\Dec27.deps.json
+C:\CS\LPU-dotnet\Dec27\Dec27\bin\Debug\net8.0\Dec27.runtimeconfig.json
+C:\CS\LPU-dotnet\Dec27\Dec27\bin\Debug\net8.0\Dec27.dll
+C:\CS\LPU-dotnet\Dec27\Dec27\bin\Debug\net8.0\Dec27.pdb
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.sourcelink.json
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.dll
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\refint\Dec27.dll
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.pdb
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\Dec27.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Dec27\Dec27\obj\Debug\net8.0\ref\Dec27.dll

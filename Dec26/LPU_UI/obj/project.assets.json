@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LPU_BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LPU_Common": "1.0.0",
+          "LPU_DAL": "1.0.0",
+          "LPU_Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LPU_BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LPU_BL.dll": {}
+        }
+      },
+      "LPU_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LPU_Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LPU_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LPU_Common.dll": {}
+        }
+      },
+      "LPU_DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LPU_Common": "1.0.0",
+          "LPU_Entity": "1.0.0",
+          "LPU_Exceptions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LPU_DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LPU_DAL.dll": {}
+        }
+      },
+      "LPU_Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LPU_Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LPU_Entity.dll": {}
+        }
+      },
+      "LPU_Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LPU_Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LPU_Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LPU_BL/1.0.0": {
+      "type": "project",
+      "path": "../LPU_BL/LPU_BL.csproj",
+      "msbuildProject": "../LPU_BL/LPU_BL.csproj"
+    },
+    "LPU_Common/1.0.0": {
+      "type": "project",
+      "path": "../LPU_Common/LPU_Common.csproj",
+      "msbuildProject": "../LPU_Common/LPU_Common.csproj"
+    },
+    "LPU_DAL/1.0.0": {
+      "type": "project",
+      "path": "../LPU_DAL/LPU_DAL.csproj",
+      "msbuildProject": "../LPU_DAL/LPU_DAL.csproj"
+    },
+    "LPU_Entity/1.0.0": {
+      "type": "project",
+      "path": "../LPU_Entity/LPU_Entity.csproj",
+      "msbuildProject": "../LPU_Entity/LPU_Entity.csproj"
+    },
+    "LPU_Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../LPU_Exceptions/LPU_Exceptions.csproj",
+      "msbuildProject": "../LPU_Exceptions/LPU_Exceptions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LPU_BL >= 1.0.0",
+      "LPU_Entity >= 1.0.0",
+      "LPU_Exceptions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\roys9\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_UI\\LPU_UI.csproj",
+      "projectName": "LPU_UI",
+      "projectPath": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_UI\\LPU_UI.csproj",
+      "packagesPath": "C:\\Users\\roys9\\.nuget\\packages\\",
+      "outputPath": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\roys9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\CS\\LPU-dotnet\\Dec26\\LPU_BL\\LPU_BL.csproj": {
+              "projectPath": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_BL\\LPU_BL.csproj"
+            },
+            "C:\\CS\\LPU-dotnet\\Dec26\\LPU_Entity\\LPU_Entity.csproj": {
+              "projectPath": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_Entity\\LPU_Entity.csproj"
+            },
+            "C:\\CS\\LPU-dotnet\\Dec26\\LPU_Exceptions\\LPU_Exceptions.csproj": {
+              "projectPath": "C:\\CS\\LPU-dotnet\\Dec26\\LPU_Exceptions\\LPU_Exceptions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

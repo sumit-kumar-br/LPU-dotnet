@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\bin\Debug\net8.0\BejoyComputers.exe
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\bin\Debug\net8.0\BejoyComputers.deps.json
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\bin\Debug\net8.0\BejoyComputers.runtimeconfig.json
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\bin\Debug\net8.0\BejoyComputers.dll
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\bin\Debug\net8.0\BejoyComputers.pdb
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.sourcelink.json
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.dll
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\refint\BejoyComputers.dll
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.pdb
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\BejoyComputers.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Assignments\BejoyComputers\obj\Debug\net8.0\ref\BejoyComputers.dll

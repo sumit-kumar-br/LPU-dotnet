@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\InterfaceDemoProj\bin\Debug\net8.0\InterfaceDemoProj.exe
+C:\CS\LPU-dotnet\InterfaceDemoProj\bin\Debug\net8.0\InterfaceDemoProj.deps.json
+C:\CS\LPU-dotnet\InterfaceDemoProj\bin\Debug\net8.0\InterfaceDemoProj.runtimeconfig.json
+C:\CS\LPU-dotnet\InterfaceDemoProj\bin\Debug\net8.0\InterfaceDemoProj.dll
+C:\CS\LPU-dotnet\InterfaceDemoProj\bin\Debug\net8.0\InterfaceDemoProj.pdb
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.AssemblyInfo.cs
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.sourcelink.json
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.dll
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\refint\InterfaceDemoProj.dll
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.pdb
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\InterfaceDemoProj.genruntimeconfig.cache
+C:\CS\LPU-dotnet\InterfaceDemoProj\obj\Debug\net8.0\ref\InterfaceDemoProj.dll

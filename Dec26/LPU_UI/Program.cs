@@ -1,4 +1,6 @@
-﻿using System;
+﻿// UI class of the project
+
+using System;
 using LPU_BL;
 using LPU_Entity;
 using LPU_Exceptions;

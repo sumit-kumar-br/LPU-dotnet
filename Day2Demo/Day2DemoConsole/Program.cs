@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Day 2 class 
+
 using System.Runtime.InteropServices;
 using Day2DemoConsole;
 static void Menu()

@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// day 3 class
+
 using Day3Demo;
 
 Console.WriteLine("Hello, World!");

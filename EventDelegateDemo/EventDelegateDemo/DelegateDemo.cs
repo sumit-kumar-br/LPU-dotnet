@@ -12,6 +12,7 @@ namespace EventDelegateDemo
 
     // unicast delegate (some return type; only one method invoked)
     public delegate int Calculation(int num1, int num2);
+
     class Hindi
     {
         public void WelcomeMsg(string userName)
@@ -35,7 +36,7 @@ namespace EventDelegateDemo
     }
     class Marathi
     {
-        public void WelcomeMsg(string userName)
+        public static void WelcomeMsg(string userName)
         {
             Console.WriteLine("Namaskar " + userName);
         }
@@ -47,6 +48,10 @@ namespace EventDelegateDemo
             Tamil tObj = new Tamil();
             GreetMsg GreetInTamil = new GreetMsg(tObj.WelcomeMsg);
             GreetInTamil("Alok");
+
+            GreetMsg GreetInMarathi = new GreetMsg(Marathi.WelcomeMsg);
+            GreetInMarathi("Sumit");
+
         }
 
     }

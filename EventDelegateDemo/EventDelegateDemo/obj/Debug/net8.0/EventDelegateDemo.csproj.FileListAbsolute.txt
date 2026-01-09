@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.exe
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.deps.json
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.runtimeconfig.json
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.dll
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\bin\Debug\net8.0\EventDelegateDemo.pdb
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.AssemblyInfo.cs
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.sourcelink.json
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.dll
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\refint\EventDelegateDemo.dll
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.pdb
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\EventDelegateDemo.genruntimeconfig.cache
+C:\CS\LPU-dotnet\EventDelegateDemo\EventDelegateDemo\obj\Debug\net8.0\ref\EventDelegateDemo.dll

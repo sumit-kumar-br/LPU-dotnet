@@ -1,0 +1,18 @@
+opt out model - the data that doesn't need to be shared is made non-serializable
+
+📦 Serialization Types & Namespaces in C#
+
+Binary Serialization - System.Runtime.Serialization.Formatters.Binary
+
+XML Serialization - System.Xml.Serialization
+
+SOAP Serialization - System.Runtime.Serialization.Formatters.Soap
+
+JSON Serialization - System.Text.Json (older alternative: Newtonsoft.Json)
+
+⚖️ Quick Comparison Table
+Type	Speed		    Size		Readable	Cross-Platform	Common Use
+Binary	⭐⭐⭐⭐	  Small		    ❌		❌		        Same .NET apps
+XML	    ⭐⭐		     Large		    ✅		✅		        Config, data exchange
+SOAP	⭐		      Very Large	    ✅		✅		    Legacy services
+JSON	⭐⭐⭐		   Small		    ✅		✅		     REST APIs, web

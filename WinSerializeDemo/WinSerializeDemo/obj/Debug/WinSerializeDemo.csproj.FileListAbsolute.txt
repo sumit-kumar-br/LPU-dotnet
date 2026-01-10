@@ -1,0 +1,10 @@
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\bin\Debug\WinSerializeDemo.exe.config
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\bin\Debug\WinSerializeDemo.exe
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\bin\Debug\WinSerializeDemo.pdb
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.Form1.resources
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.Properties.Resources.resources
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.csproj.GenerateResource.cache
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.exe
+C:\CS\LPU-dotnet\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.pdb

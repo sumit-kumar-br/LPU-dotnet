@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\FileIODemo\bin\Debug\net8.0\FileIODemo.exe
+C:\CS\LPU-dotnet\FileIODemo\bin\Debug\net8.0\FileIODemo.deps.json
+C:\CS\LPU-dotnet\FileIODemo\bin\Debug\net8.0\FileIODemo.runtimeconfig.json
+C:\CS\LPU-dotnet\FileIODemo\bin\Debug\net8.0\FileIODemo.dll
+C:\CS\LPU-dotnet\FileIODemo\bin\Debug\net8.0\FileIODemo.pdb
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.AssemblyInfo.cs
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.sourcelink.json
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.dll
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\refint\FileIODemo.dll
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.pdb
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\FileIODemo.genruntimeconfig.cache
+C:\CS\LPU-dotnet\FileIODemo\obj\Debug\net8.0\ref\FileIODemo.dll

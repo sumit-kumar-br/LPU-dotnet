@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\CS\\LPU-dotnet\\WinSerializeDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59B12AD7-12ED-40B8-B615-0D5105A299F3}|WinSerializeDemo\\WinSerializeDemo.csproj|C:\\CS\\LPU-dotnet\\WinSerializeDemo\\winserializedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59B12AD7-12ED-40B8-B615-0D5105A299F3}|WinSerializeDemo\\WinSerializeDemo.csproj|c:\\cs\\lpu-dotnet\\winserializedemo\\winserializedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59B12AD7-12ED-40B8-B615-0D5105A299F3}|WinSerializeDemo\\WinSerializeDemo.csproj|solutionrelative:winserializedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B12AD7-12ED-40B8-B615-0D5105A299F3}|WinSerializeDemo\\WinSerializeDemo.csproj|c:\\cs\\lpu-dotnet\\winserializedemo\\winserializedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{59B12AD7-12ED-40B8-B615-0D5105A299F3}|WinSerializeDemo\\WinSerializeDemo.csproj|C:\\CS\\LPU-dotnet\\WinSerializeDemo\\winserializedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{59B12AD7-12ED-40B8-B615-0D5105A299F3}|WinSerializeDemo\\WinSerializeDemo.csproj|solutionrelative:winserializedemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -38,8 +38,7 @@
               "RelativeToolTip": "WinSerializeDemo\\Form1.Designer.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAYwMcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T06:55:52.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T06:55:52.964Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "WinSerializeDemo\\Form1.cs",
               "ToolTip": "C:\\CS\\LPU-dotnet\\WinSerializeDemo\\WinSerializeDemo\\Form1.cs",
               "RelativeToolTip": "WinSerializeDemo\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwD0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwD0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T06:56:32.809Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "WinSerializeDemo\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T06:12:27.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T06:12:27.078Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "ToolTip": "C:\\CS\\LPU-dotnet\\WinSerializeDemo\\WinSerializeDemo\\Form1.cs [Design]",
               "RelativeToolTip": "WinSerializeDemo\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T05:51:46.762Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-10T05:51:46.762Z"
             }
           ]
         }

@@ -18,8 +18,7 @@ namespace MovieLibrary
         public bool RemoveFilm(string title)
         {
 
-            var film = _films.FirstOrDefault(f =>
-            f.Title.Equals(title, StringComparison.OrdinalIgnoreCase));
+            var film = _films.FirstOrDefault(f => f.Title.Equals(title, StringComparison.OrdinalIgnoreCase));
             if(film != null)
             {
                 _films.Remove(film);
@@ -36,11 +35,7 @@ namespace MovieLibrary
         public List<IFilm> SearchFilms(string query)
         {
             query = query.ToLower();
-            return _films
-                .Where(f =>
-                f.Title.ToLower().Contains(query) ||
-                f.Director.ToLower().Contains(query))
-                .ToList();
+            return _films.Where(f => f.Title.ToLower().Contains(query) || f.Director.ToLower().Contains(query)).ToList();
         }
         public int GetTotalFilmCount()
         {

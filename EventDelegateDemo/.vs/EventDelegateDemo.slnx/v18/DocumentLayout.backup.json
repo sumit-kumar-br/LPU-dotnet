@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|c:\\cs\\lpu-dotnet\\eventdelegatedemo\\eventdelegatedemo\\eventdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\eventdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|c:\\cs\\lpu-dotnet\\eventdelegatedemo\\eventdelegatedemo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F493E9-69EC-3AF6-441E-F89E9084BEAF}|EventDelegateDemo\\EventDelegateDemo.csproj|solutionrelative:eventdelegatedemo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "EventDemo.cs",
+              "DocumentMoniker": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\EventDemo.cs",
+              "RelativeDocumentMoniker": "EventDelegateDemo\\EventDemo.cs",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\EventDemo.cs",
+              "RelativeToolTip": "EventDelegateDemo\\EventDemo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T06:18:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\Product.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\Product.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "EventDelegateDemo\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:09:40.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T04:09:40.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\ProductRepo.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\ProductRepo.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "EventDelegateDemo\\ProductRepo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:08:04.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T04:08:04.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IRepo.cs",
               "DocumentMoniker": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\IRepo.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\IRepo.cs",
@@ -68,12 +83,11 @@
               "RelativeToolTip": "EventDelegateDemo\\IRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:07:28.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T04:07:28.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DelegateDemo.cs",
               "DocumentMoniker": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\DelegateDemo.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\DelegateDemo.cs",
@@ -81,8 +95,7 @@
               "RelativeToolTip": "EventDelegateDemo\\DelegateDemo.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAA9wCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T06:54:31.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T06:54:31.241Z"
             },
             {
               "$type": "Document",
@@ -90,9 +103,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\Program.cs",
               "RelativeDocumentMoniker": "EventDelegateDemo\\Program.cs",
-              "ToolTip": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\Program.cs",
-              "RelativeToolTip": "EventDelegateDemo\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\CS\\LPU-dotnet\\EventDelegateDemo\\EventDelegateDemo\\Program.cs*",
+              "RelativeToolTip": "EventDelegateDemo\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T06:53:50.211Z",
               "EditorCaption": ""

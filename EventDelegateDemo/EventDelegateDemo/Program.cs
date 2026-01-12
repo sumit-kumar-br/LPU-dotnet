@@ -33,12 +33,12 @@ namespace EventDelegateDemo
             //CreateRecord AddProduct = new CreateRecord(pRepo.Add);
             //AddProduct(new Product());
 
-            //Program p1 = new Program();
-            //Caller CallMe = new Caller(Program.ShowMe);
-            //CallMe += new Caller(p1.GenerateBill);
-            //CallMe("LPU");
-            //CallMe -= new Caller(p1.GenerateBill);
-            //CallMe("LPU");
+            // Program p1 = new Program();
+            // Caller CallMe = new Caller(Program.ShowMe);
+            // CallMe += new Caller(p1.GenerateBill);
+            // CallMe("LPU");
+            // CallMe -= new Caller(p1.GenerateBill);
+            // CallMe("LPU");
 
             strDelegate caller = new strDelegate(Handler.UpperCase);
             //string res = caller("ThE quICk BrOWn FoX");

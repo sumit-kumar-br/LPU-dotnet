@@ -12,3 +12,4 @@ C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\refint\DigitalPettyCash.dll
 C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.pdb
 C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.genruntimeconfig.cache
 C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\ref\DigitalPettyCash.dll
+C:\CS\LPU-dotnet\DigitalPettyCash\obj\Debug\net8.0\DigitalPettyCash.sourcelink.json

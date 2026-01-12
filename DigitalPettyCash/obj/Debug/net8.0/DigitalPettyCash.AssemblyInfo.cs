@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalPettyCash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbdd40b3792f28d5dec0b39e3f11bd9d820c9916")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalPettyCash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalPettyCash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

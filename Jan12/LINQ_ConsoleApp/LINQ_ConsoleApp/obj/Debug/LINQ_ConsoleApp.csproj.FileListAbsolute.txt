@@ -1,0 +1,7 @@
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\bin\Debug\LINQ_ConsoleApp.exe.config
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\bin\Debug\LINQ_ConsoleApp.exe
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\bin\Debug\LINQ_ConsoleApp.pdb
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\obj\Debug\LINQ_ConsoleApp.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\obj\Debug\LINQ_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\obj\Debug\LINQ_ConsoleApp.exe
+C:\CS\LPU-dotnet\Jan12\LINQ_ConsoleApp\LINQ_ConsoleApp\obj\Debug\LINQ_ConsoleApp.pdb

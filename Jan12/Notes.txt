@@ -1,0 +1,30 @@
+opt in model - non-serialized by default
+opt out model - serialized by default
+
+
+🧠 Quick Comparison
+
+Aspect		Opt-In			Opt-Out
+
+Default		Nothing serialized	Everything serialized
+Control		High			Medium
+Security	Strong			Risky if careless
+Attributes	[DataMember]		[IgnoreDataMember]
+Best for	APIs, sensitive data	Simple models
+
+
+ADO.net
+
+Connected - Live and updated data
+Disconnected - 
+
+LINQ - Language Integrated Query - ORM(Object Relation Mapping)
+bridges the gap between objects and data
+
+Entity Classes (Models)
+        ↓
+      LINQ
+        ↓
+Entity Framework
+        ↓
+     Database

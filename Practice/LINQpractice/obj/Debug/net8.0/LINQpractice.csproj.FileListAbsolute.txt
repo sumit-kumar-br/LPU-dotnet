@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Practice\LINQpractice\bin\Debug\net8.0\LINQpractice.exe
+C:\CS\LPU-dotnet\Practice\LINQpractice\bin\Debug\net8.0\LINQpractice.deps.json
+C:\CS\LPU-dotnet\Practice\LINQpractice\bin\Debug\net8.0\LINQpractice.runtimeconfig.json
+C:\CS\LPU-dotnet\Practice\LINQpractice\bin\Debug\net8.0\LINQpractice.dll
+C:\CS\LPU-dotnet\Practice\LINQpractice\bin\Debug\net8.0\LINQpractice.pdb
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.sourcelink.json
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.dll
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\refint\LINQpractice.dll
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.pdb
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\LINQpractice.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Practice\LINQpractice\obj\Debug\net8.0\ref\LINQpractice.dll

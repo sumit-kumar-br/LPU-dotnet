@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.exe
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.deps.json
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.runtimeconfig.json
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.dll
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\bin\Debug\net8.0\FactoryRobotHazardAnalyzer.pdb
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.AssemblyInfo.cs
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.sourcelink.json
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.dll
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\refint\FactoryRobotHazardAnalyzer.dll
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.pdb
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\FactoryRobotHazardAnalyzer.genruntimeconfig.cache
+C:\CS\LPU-dotnet\FactoryRobotHazardAnalyzer\obj\Debug\net8.0\ref\FactoryRobotHazardAnalyzer.dll

@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\FlipKey\bin\Debug\net8.0\FlipKey.exe
+C:\CS\LPU-dotnet\FlipKey\bin\Debug\net8.0\FlipKey.deps.json
+C:\CS\LPU-dotnet\FlipKey\bin\Debug\net8.0\FlipKey.runtimeconfig.json
+C:\CS\LPU-dotnet\FlipKey\bin\Debug\net8.0\FlipKey.dll
+C:\CS\LPU-dotnet\FlipKey\bin\Debug\net8.0\FlipKey.pdb
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.AssemblyInfo.cs
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.sourcelink.json
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.dll
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\refint\FlipKey.dll
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.pdb
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\FlipKey.genruntimeconfig.cache
+C:\CS\LPU-dotnet\FlipKey\obj\Debug\net8.0\ref\FlipKey.dll

@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Practice\Khata\bin\Debug\net8.0\Khata.exe
+C:\CS\LPU-dotnet\Practice\Khata\bin\Debug\net8.0\Khata.deps.json
+C:\CS\LPU-dotnet\Practice\Khata\bin\Debug\net8.0\Khata.runtimeconfig.json
+C:\CS\LPU-dotnet\Practice\Khata\bin\Debug\net8.0\Khata.dll
+C:\CS\LPU-dotnet\Practice\Khata\bin\Debug\net8.0\Khata.pdb
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.sourcelink.json
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.dll
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\refint\Khata.dll
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.pdb
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\Khata.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Practice\Khata\obj\Debug\net8.0\ref\Khata.dll

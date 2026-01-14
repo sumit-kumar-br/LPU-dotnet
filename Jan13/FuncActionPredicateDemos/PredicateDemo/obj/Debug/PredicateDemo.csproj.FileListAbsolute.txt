@@ -1,0 +1,21 @@
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.exe.config
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.exe
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.pdb
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.csprojAssemblyReference.cache
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.csproj.CoreCompileInputs.cache
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.exe
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.pdb
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.exe.config
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.exe
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.pdb
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.csprojAssemblyReference.cache
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.csproj.CoreCompileInputs.cache
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.exe
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.pdb
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.exe.config
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.exe
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\bin\Debug\PredicateDemo.pdb
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.exe
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\PredicateDemo\obj\Debug\PredicateDemo.pdb

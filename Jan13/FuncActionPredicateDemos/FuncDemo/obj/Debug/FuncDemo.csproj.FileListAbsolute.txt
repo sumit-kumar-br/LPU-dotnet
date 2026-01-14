@@ -1,0 +1,21 @@
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.exe.config
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.exe
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.pdb
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.csprojAssemblyReference.cache
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.csproj.CoreCompileInputs.cache
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.exe
+D:\DATA\2019\Jan\Other\M2\Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.pdb
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.exe.config
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.exe
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.pdb
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.csprojAssemblyReference.cache
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.csproj.CoreCompileInputs.cache
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.exe
+G:\Capgemini Material\Capgemini Material in ZIP\M1\CSharp\Demos\New Demos\Lesson 08\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.pdb
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.exe.config
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.exe
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\bin\Debug\FuncDemo.pdb
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.exe
+C:\CS\LPU-dotnet\Jan13\FuncActionPredicateDemos\FuncDemo\obj\Debug\FuncDemo.pdb

@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\bin\Debug\net10.0\ParallelDemo.exe
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\bin\Debug\net10.0\ParallelDemo.deps.json
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\bin\Debug\net10.0\ParallelDemo.runtimeconfig.json
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\bin\Debug\net10.0\ParallelDemo.dll
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\bin\Debug\net10.0\ParallelDemo.pdb
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.sourcelink.json
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.dll
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\refint\ParallelDemo.dll
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.pdb
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ParallelDemo.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Jan16\ParallelDemo\obj\Debug\net10.0\ref\ParallelDemo.dll

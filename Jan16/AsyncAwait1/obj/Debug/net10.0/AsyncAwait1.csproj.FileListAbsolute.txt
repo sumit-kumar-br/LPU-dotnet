@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\bin\Debug\net10.0\AsyncAwait1.exe
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\bin\Debug\net10.0\AsyncAwait1.deps.json
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\bin\Debug\net10.0\AsyncAwait1.runtimeconfig.json
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\bin\Debug\net10.0\AsyncAwait1.dll
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\bin\Debug\net10.0\AsyncAwait1.pdb
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.sourcelink.json
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.dll
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\refint\AsyncAwait1.dll
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.pdb
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\AsyncAwait1.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Jan16\AsyncAwait1\obj\Debug\net10.0\ref\AsyncAwait1.dll

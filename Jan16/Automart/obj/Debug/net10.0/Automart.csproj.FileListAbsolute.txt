@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Jan16\Automart\bin\Debug\net10.0\Automart.exe
+C:\CS\LPU-dotnet\Jan16\Automart\bin\Debug\net10.0\Automart.deps.json
+C:\CS\LPU-dotnet\Jan16\Automart\bin\Debug\net10.0\Automart.runtimeconfig.json
+C:\CS\LPU-dotnet\Jan16\Automart\bin\Debug\net10.0\Automart.dll
+C:\CS\LPU-dotnet\Jan16\Automart\bin\Debug\net10.0\Automart.pdb
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.sourcelink.json
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.dll
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\refint\Automart.dll
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.pdb
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\Automart.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Jan16\Automart\obj\Debug\net10.0\ref\Automart.dll

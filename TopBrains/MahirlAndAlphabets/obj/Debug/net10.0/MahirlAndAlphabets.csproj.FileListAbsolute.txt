@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\bin\Debug\net10.0\MahirlAndAlphabets.exe
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\bin\Debug\net10.0\MahirlAndAlphabets.deps.json
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\bin\Debug\net10.0\MahirlAndAlphabets.runtimeconfig.json
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\bin\Debug\net10.0\MahirlAndAlphabets.dll
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\bin\Debug\net10.0\MahirlAndAlphabets.pdb
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.AssemblyInfo.cs
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.sourcelink.json
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.dll
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\refint\MahirlAndAlphabets.dll
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.pdb
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\MahirlAndAlphabets.genruntimeconfig.cache
+C:\CS\LPU-dotnet\TopBrains\MahirlAndAlphabets\obj\Debug\net10.0\ref\MahirlAndAlphabets.dll

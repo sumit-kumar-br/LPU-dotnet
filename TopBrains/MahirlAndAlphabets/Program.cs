@@ -16,7 +16,7 @@ public class SolutionDefault
         }
 
         HashSet<char> vowels = new HashSet<char> { 'a', 'e', 'i', 'o', 'u' };
-        StringBuilder filtered = new StringBuilder();
+        string filtered = "";
 
         // Task 1: Remove common consonants
         foreach (char c in word1)
@@ -25,21 +25,20 @@ public class SolutionDefault
 
             if (vowels.Contains(lower) || !secondWordChars.Contains(lower))
             {
-                filtered.Append(c);
+                filtered += c;
             }
         }
 
         // Task 2: Remove consecutive duplicates
-        StringBuilder result = new StringBuilder();
+        string result = "";
 
         for (int i = 0; i < filtered.Length; i++)
         {
             if (i == 0 || filtered[i] != filtered[i - 1])
             {
-                result.Append(filtered[i]);
+                result += filtered[i];
             }
         }
-
         Console.WriteLine(result.ToString());
     }
 }

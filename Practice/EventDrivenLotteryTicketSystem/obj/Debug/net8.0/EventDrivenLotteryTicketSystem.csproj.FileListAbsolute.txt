@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\bin\Debug\net8.0\EventDrivenLotteryTicketSystem.exe
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\bin\Debug\net8.0\EventDrivenLotteryTicketSystem.deps.json
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\bin\Debug\net8.0\EventDrivenLotteryTicketSystem.runtimeconfig.json
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\bin\Debug\net8.0\EventDrivenLotteryTicketSystem.dll
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\bin\Debug\net8.0\EventDrivenLotteryTicketSystem.pdb
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.sourcelink.json
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.dll
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\refint\EventDrivenLotteryTicketSystem.dll
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.pdb
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\EventDrivenLotteryTicketSystem.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Practice\EventDrivenLotteryTicketSystem\obj\Debug\net8.0\ref\EventDrivenLotteryTicketSystem.dll

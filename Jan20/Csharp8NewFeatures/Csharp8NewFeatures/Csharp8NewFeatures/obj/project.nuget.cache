@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TV14OoJaYyI=",
+  "success": true,
+  "projectFilePath": "C:\\CS\\LPU-dotnet\\Jan20\\Csharp8NewFeatures\\Csharp8NewFeatures\\Csharp8NewFeatures\\Csharp8NewFeatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\roys9\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

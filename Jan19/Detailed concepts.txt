@@ -1,0 +1,190 @@
+Detailed concepts
+Introduction to .NET Framework 4.7
+             o What is .NET Platform?
+             o What is .NET Framework
+             o Net Framework Architecture
+             o .NET Framework, Languages, and Tools
+             o .NET Framework Major Components
+             o Common Language Runtime (CLR)                
+             o Compilation and Execution in .NET
+             o Understand the .NET Framework 4.7 stack
+             o Introduction to .NET Core
+                    •     .NET Core Overview
+                    •     .NET Core Versions
+                    •     .NET Core Compositions
+                    •      Dependency Injection
+Introduction to C#
+Features of C#
+C# Compilation and Execution
+General Structure of a C# Program
+Creating and Using a DLL.
+Data Types and Arrays in C#
+Data Types in C#
+Value Types and Reference Types
+Boxing and Unboxing
+Single Dimensional, Multi-Dimensional & Jagged arrays
+Nullable Types
+Implicitly Typed Local variables
+Var vs dynamic
+Is and as operator
+Ref vs out keywords
+ 
+ 
+The ‘object’ base class in .net
+Equals() vs ==
+String vs StringBuilder, String Manipulation
+Various String class methods
+Default parameters, named parameters
+Parse() vs TryParse() vs Convert Class methods.
+Using Microsoft Visual Studio Community
+Overview of Visual Studio
+Tracing, Debugging, Build
+Using break points
+Using break conditions
+Using watch and output window
+Creating multiple projects within one solution
+Common Debugging Practices
+Using logs, trace statements, structured logging (Serilog, NLog).
+  Diagnosing performance bottlenecks (profilers, performance counters)
+Introduction to Power skills
+# Ice breaking, Objective setting
+# Communication skills (Modes and overview)
+# Introduction to written communication (dos and don’ts of emails)
+# Grooming (Hygiene Squad)
+• OOP with C#
+       o Method Hiding
+       o Access modifiers: private, pubic, protected, internal, protected internal
+       o Anonymous types
+       o Abstract classes
+       o Sealed classes
+       o Creating Interfaces
+       o Implementing Interface inheritance
+       o Declaring properties within Interfaces
+       o Namespaces
+ 
+"o Creating and using Generic classes
+o Indexers & Properties
+o Auto Implemented properties
+o Static Classes
+o Property Accessors
+o Partial types
+o Extension methods
+o Object Initializer
+ 
+ 
+• Evaluating Regular Expressions in C#
+o RegEx Class
+o Forming Regular Expression
+o Methods for Regular Expression
+
+Exception Handling
+Exceptions in C#
+Exception class hierarchy
+Try block
+Multiple catch blocks
+Finally block
+Purpose of throw keyword
+Purpose of inner exception
+Creating Custom Exception
+Exception Logging- File or DB
+Best Practices
+Avoiding silent catch-all, logging errors, rethrowing or wrapping exceptions.
+Defensive programming (checking null arguments, etc.).
+Garbage Collection in C#
+Role of a Garbage Collector
+Garbage Collection Algorithm
+Finalize vs Dispose
+• Collections & Generics
+        o System. Collections Namespace
+        o Collection Interfaces
+        o Collection Classes
+        o The collection API
+        o Working with Generics
+        o Creating Generic class, Generic Methods, Interfaces, Delegates
+        o Collection Initializers
+        o Iterators
+        o Constraints
+Delegates and Events
+Introduction to Delegates
+Implementing Delegates
+Single & Multicasting Delegate
+Creating callback method using Delegate
+Events in C#
+Generic delegates and generic Delegates, Generic Classes
+Action, Func and Predicate Delegate
+ 
+ 
+File I/O and Serialization
+Persisting object state to a stream
+Various classes used for File handling
+Using StreamReader, StreamWritter
+Using BinaryReader, BinaryWriter
+Using File, FileInfo, Directory, DirectoryInfo
+Serialization modes: SOAP, XML, JSON
+Assemblies, Reflection & Attribute based programming
+Introduction to .NET Reflection
+Assemblies -Private, Public, Shared and Satellite)
+Types of Attributes
+Threading, Parallel and Async programming with C#
+Appdomain vs Process vs Thread
+Process vs Thread
+Creating and running a thread
+Thread.Sleep() method
+Parallelization Overview
+Task Parallel Library
+Threads Vs. Tasks
+Parallel Extensions
+Task Based Asynchronous Model
+Async and Await
+Using Locks
+C# 8.0 Features
+Read-only members
+Default interface methods
+Pattern matching enhancements:
+Using declarations
+Static local functions
+Disposable ref structs
+Nullable reference types
+Asynchronous streams
+ 
+ 
+Asynchronous disposable
+Indices and ranges
+Null-coalescing assignment
+Unmanaged constructed types
+Stackalloc in nested expressions
+Enhancement of interpolated verbatim strings
+C# 10 Features
+Record structs
+Improvements of structure types
+Interpolated string handlers
+global using directives
+File-scoped namespace declaration
+Extended property patterns
+Improvements on lambda expressions
+Allow const interpolated strings
+Record types can seal ToString()
+Improved definite assignment
+Allow both assignment and declaration in the same deconstruction
+Allow AsyncMethodBuilder attribute on methods
+CallerArgumentExpression attribute
+Enhanced #line pragma
+Warning wave 6
+C# 12 Features
+Primary constructors
+Collection expressions
+Inline arrays
+Optional parameters in lambda expressions
+ref read-only parameters
+Alias any type
+Experimental attribute
+Packaging and Deployment
+File System Editor
+ 
+ 
+Registry Editor
+File Types Editor
+User Interface Editor
+Custom Actions
+Launch Condition Editor
+Creating Uninstall Shortcut

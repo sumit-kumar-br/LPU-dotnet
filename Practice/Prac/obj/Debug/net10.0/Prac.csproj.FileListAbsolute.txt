@@ -1,0 +1,15 @@
+C:\CS\LPU-dotnet\Practice\Prac\bin\Debug\net10.0\Prac.exe
+C:\CS\LPU-dotnet\Practice\Prac\bin\Debug\net10.0\Prac.deps.json
+C:\CS\LPU-dotnet\Practice\Prac\bin\Debug\net10.0\Prac.runtimeconfig.json
+C:\CS\LPU-dotnet\Practice\Prac\bin\Debug\net10.0\Prac.dll
+C:\CS\LPU-dotnet\Practice\Prac\bin\Debug\net10.0\Prac.pdb
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.AssemblyInfoInputs.cache
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.AssemblyInfo.cs
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.sourcelink.json
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.dll
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\refint\Prac.dll
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.pdb
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\Prac.genruntimeconfig.cache
+C:\CS\LPU-dotnet\Practice\Prac\obj\Debug\net10.0\ref\Prac.dll

@@ -1,0 +1,15 @@
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.csproj.AssemblyReference.cache
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.AssemblyInfoInputs.cache
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.AssemblyInfo.cs
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.csproj.CoreCompileInputs.cache
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\bin\Debug\net6.0\Csharp8NewFeatures.exe
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\bin\Debug\net6.0\Csharp8NewFeatures.deps.json
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\bin\Debug\net6.0\Csharp8NewFeatures.runtimeconfig.json
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\bin\Debug\net6.0\Csharp8NewFeatures.dll
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\bin\Debug\net6.0\Csharp8NewFeatures.pdb
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.dll
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\refint\Csharp8NewFeatures.dll
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.pdb
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\Csharp8NewFeatures.genruntimeconfig.cache
+F:\CgDec29\Csharp8NewFeatures\Csharp8NewFeatures\obj\Debug\net6.0\ref\Csharp8NewFeatures.dll

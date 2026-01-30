@@ -1,0 +1,17 @@
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\bin\Debug\net6.0\Csharp10FeaturesDemo.exe
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\bin\Debug\net6.0\Csharp10FeaturesDemo.deps.json
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\bin\Debug\net6.0\Csharp10FeaturesDemo.runtimeconfig.json
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\bin\Debug\net6.0\Csharp10FeaturesDemo.dll
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\bin\Debug\net6.0\Csharp10FeaturesDemo.pdb
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.csproj.AssemblyReference.cache
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.AssemblyInfoInputs.cache
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.AssemblyInfo.cs
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.csproj.CoreCompileInputs.cache
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.dll
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\refint\Csharp10FeaturesDemo.dll
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.pdb
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.genruntimeconfig.cache
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\ref\Csharp10FeaturesDemo.dll
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\CgDec29\Csharp10FeaturesDemo\Csharp10FeaturesDemo\obj\Debug\net6.0\Csharp10FeaturesDemo.csproj.CopyComplete

@@ -1,0 +1,14 @@
+﻿BikeRentalSolution
+│
+├── Domain
+│   └── Bike.cs
+│
+├── Application
+│   ├── IBikeRepository.cs
+│   └── BikeService.cs   ← ALL LINQ scenarios here
+│
+├── Infrastructure
+│   └── BikeRepository.cs
+│
+└── Presentation
+    └── Program.cs       ← MENU-DRIVEN APP

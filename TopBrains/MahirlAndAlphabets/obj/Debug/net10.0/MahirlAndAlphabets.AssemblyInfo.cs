@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MahirlAndAlphabets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b932e0c9e68eac5f266ab7e48ff1ecc3a788b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c9daf66ef67dc84c00676087fdf7e66e1e84fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("MahirlAndAlphabets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MahirlAndAlphabets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

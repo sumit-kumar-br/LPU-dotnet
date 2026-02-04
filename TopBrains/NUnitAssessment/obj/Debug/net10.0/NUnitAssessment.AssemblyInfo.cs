@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NUnitAssessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5d4d42cf9c570e800fd6bf663805a101e9e5e9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a459d8963ea2e2da00125e350beee5504385356f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NUnitAssessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NUnitAssessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

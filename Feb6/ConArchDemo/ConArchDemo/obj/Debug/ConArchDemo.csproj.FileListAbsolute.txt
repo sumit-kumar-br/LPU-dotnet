@@ -1,0 +1,7 @@
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\bin\Debug\ConArchDemo.exe.config
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\bin\Debug\ConArchDemo.exe
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\bin\Debug\ConArchDemo.pdb
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.exe
+C:\CS\LPU-dotnet\Feb6\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.pdb

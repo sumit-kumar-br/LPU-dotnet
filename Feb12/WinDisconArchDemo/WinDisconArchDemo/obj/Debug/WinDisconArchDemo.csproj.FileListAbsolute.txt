@@ -1,0 +1,20 @@
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.exe.config
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.exe
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.pdb
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.AssemblyReference.cache
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.Form1.resources
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.Properties.Resources.resources
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.GenerateResource.cache
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.CoreCompileInputs.cache
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.exe
+D:\MyData\Capgemini\Training\.NET Training\11Feb2026\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.pdb
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.exe.config
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.exe
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.pdb
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.AssemblyReference.cache
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.Form1.resources
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.Properties.Resources.resources
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.GenerateResource.cache
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.CoreCompileInputs.cache
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.exe
+C:\CS\LPU-dotnet\Feb12\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.pdb

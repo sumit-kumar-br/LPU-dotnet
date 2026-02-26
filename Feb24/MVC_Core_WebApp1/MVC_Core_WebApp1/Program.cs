@@ -14,16 +14,38 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
 app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapStaticAssets();
+//app.Use(async (context, next) =>
+//{
+//    await context.Response.WriteAsync("Middleware 1 called.");
+//    await next.Invoke();
+//});
+
+//app.Use(async (context, next) =>
+//{
+//    await next.Invoke();
+//    await context.Response.WriteAsync("Middleware 2 called.");
+//});
+
+//app.Run(async context =>
+//{
+//    await context.Response.WriteAsync("Middleware 3 called.");
+//});
+
+//app.MapStaticAssets();
+
+app.UseStaticFiles();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Student}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-
 app.Run();
+
+
+

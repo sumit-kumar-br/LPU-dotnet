@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model dynamic
+
+@{
+    ViewData["Title"] = "Search Results";
+}
+
+<h2 class="mb-4">Search Results</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <div class="alert alert-danger">
+        No results found.
+    </div>
+}
+else
+{
+    // Check if it's FlightResult
+    if (Model.First() is FlightSearchEngine.Models.FlightResult)
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Flight Id</th>
+                    <th>Flight Name</th>
+                    <th>Flight Type</th>
+                    <th>Source</th>
+                    <th>Destination</th>
+                    <th>Total Cost</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.FlightId</td>
+                        <td>@item.FlightName</td>
+                        <td>@item.FlightType</td>
+                        <td>@item.Source</td>
+                        <td>@item.Destination</td>
+                        <td>₹ @item.TotalCost</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Flight Id</th>
+                    <th>Flight Name</th>
+                    <th>Source</th>
+                    <th>Destination</th>
+                    <th>Hotel Name</th>
+                    <th>Total Cost</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.FlightId</td>
+                        <td>@item.FlightName</td>
+                        <td>@item.Source</td>
+                        <td>@item.Destination</td>
+                        <td>@item.HotelName</td>
+                        <td>₹ @item.TotalCost</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+
+<a asp-action="Index" class="btn btn-primary mt-3">
+    Back to Search
+</a>

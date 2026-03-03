@@ -1,0 +1,71 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model FlightSearchEngine.Models.SearchViewModel
+
+@{
+    ViewData["Title"] = "Flight Search";
+}
+
+<h2 class="mb-4">Flight Search Engine</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        <label asp-for="Source" class="form-label"></label>
+        <select asp-for="Source" asp-items="Model.SourceList" class="form-select">
+            <option value="">-- Select Source --</option>
+        </select>
+        <span asp-validation-for="Source" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Destination" class="form-label"></label>
+        <select asp-for="Destination" asp-items="Model.DestinationList" class="form-select">
+            <option value="">-- Select Destination --</option>
+        </select>
+        <span asp-validation-for="Destination" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NumberOfPersons" class="form-label"></label>
+        <input asp-for="NumberOfPersons" type="number" min="1" max="10" class="form-control" />
+        <span asp-validation-for="NumberOfPersons" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <button type="submit"
+                asp-action="SearchFlights"
+                class="btn btn-success me-2">
+            Search Flights Only
+        </button>
+
+        <button type="submit"
+                asp-action="SearchFlightsWithHotels"
+                class="btn btn-warning">
+            Search Flight + Hotel
+        </button>
+    </div>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        // Prevent selecting same source & destination
+        document.querySelector("form").addEventListener("submit", function (e) {
+            var source = document.getElementById("Source").value;
+            var destination = document.getElementById("Destination").value;
+
+            if (source === destination && source !== "") {
+                alert("Source and Destination cannot be the same.");
+                e.preventDefault();
+            }
+        });
+    </script>
+}

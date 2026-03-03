@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model SearchViewModel
+
+<form asp-action="SearchFlights" method="post">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <label>Source</label>
+        <select asp-for="Source" asp-items="Model.SourceList"></select>
+    </div>
+
+    <div>
+        <label>Destination</label>
+        <select asp-for="Destination" asp-items="Model.DestinationList"></select>
+    </div>
+
+    <div>
+        <label>Persons</label>
+        <input asp-for="NumberOfPersons" type="number" />
+    </div>
+
+    <button type="submit" formaction="/Flight/SearchFlights">
+        Search Flights Only
+    </button>
+
+    <button type="submit" formaction="/Flight/SearchFlightsWithHotels">
+        Search Flight + Hotel
+    </button>
+
+</form>

@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<dynamic>
+
+@if (!Model.Any())
+{
+    <h3>No results found</h3>
+}
+else
+{
+    <table border="1">
+        <tr>
+            @foreach (var prop in Model.First().GetType().GetProperties())
+            {
+                <th>@prop.Name</th>
+            }
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                @foreach (var prop in item.GetType().GetProperties())
+                {
+                    <td>@prop.GetValue(item)</td>
+                }
+            </tr>
+        }
+    </table>
+}
+
+<a asp-action="Index">Back to Search</a>

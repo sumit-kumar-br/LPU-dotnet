@@ -21,6 +21,263 @@ body {
   margin-bottom: 60px;
 }
 
+/* --- App theme (EFDemo) --- */
+:root {
+  --app-bg: #f6f8fc;
+  --app-surface: #ffffff;
+  --app-surface-2: #f3f5f9;
+  --app-border: rgba(17, 24, 39, 0.12);
+  --app-text: #0f172a;
+  --app-muted: rgba(15, 23, 42, 0.72);
+  --app-muted-2: rgba(15, 23, 42, 0.56);
+  --app-shadow: 0 10px 26px rgba(2, 6, 23, 0.10);
+  --app-radius: 16px;
+  --app-radius-sm: 12px;
+  --app-accent: #0b4bce;
+  --app-accent-2: #2563eb;
+  --app-accent-soft: rgba(37, 99, 235, 0.10);
+  --app-success: #16a34a;
+  --app-danger: #dc2626;
+}
+
+body {
+  color: var(--app-text);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f4f5fb;
+}
+
+.container main {
+  padding-top: 6px;
+}
+
+h1, h2, h3, h4 {
+  color: var(--app-text);
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 1.9rem; font-weight: 780; margin-bottom: 0.35rem; }
+h2 { font-size: 1.55rem; font-weight: 780; }
+h3 { font-size: 1.18rem; font-weight: 740; }
+h4 { font-size: 1.06rem; font-weight: 720; }
+
+.card + .card,
+.card + h1,
+h1 + .card {
+  margin-top: 14px;
+}
+
+.container {
+  max-width: 1120px;
+}
+
+/* Make the default navbar/footer match the theme */
+.navbar.bg-white {
+  background: #ffffff !important;
+  border-bottom: 1px solid var(--app-border) !important;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.04);
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--app-text) !important;
+}
+.navbar .nav-link:hover {
+  color: var(--app-accent) !important;
+}
+.border-bottom,
+.border-top {
+  border-color: var(--app-border) !important;
+}
+.footer {
+  background: rgba(255, 255, 255, 0.70);
+}
+
+/* Utility text classes already used in views */
+.muted { color: var(--app-muted); }
+.small { font-size: 0.92rem; }
+.text-muted { color: var(--app-muted) !important; }
+
+a { color: var(--app-accent); text-underline-offset: 3px; }
+a:hover { color: #083b9f; }
+
+/* Custom layout helpers used in Students/Index.cshtml */
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+/* Card surface (note: also used by Bootstrap; we style for this app’s layout) */
+.card {
+  border: 1px solid var(--app-border);
+  background: var(--app-surface);
+  border-radius: var(--app-radius);
+  box-shadow: var(--app-shadow);
+  padding: 18px;
+}
+
+/* Inputs */
+.input {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: var(--app-radius-sm);
+  border: 1px solid var(--app-border);
+  background: #ffffff;
+  color: var(--app-text);
+  outline: none;
+}
+.input::placeholder {
+  color: var(--app-muted-2);
+}
+.input:focus {
+  border-color: rgba(37, 99, 235, 0.55);
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.16);
+}
+
+/* Buttons: enhance Bootstrap .btn without changing markup */
+.btn {
+  border-radius: var(--app-radius-sm);
+  border: 1px solid rgba(15, 23, 42, 0.16);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--app-text);
+  padding: 6px 10px;
+  font-size: 0.90rem;
+  line-height: 1.1;
+  text-decoration: none;
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
+}
+.btn.btn-primary,
+.btn.btn-danger,
+.btn.btn-success,
+.btn.btn-warning,
+.btn.btn-info {
+  padding: 6px 10px;
+  font-size: 0.90rem;
+}
+.btn:hover {
+  background: #ffffff;
+  border-color: rgba(15, 23, 42, 0.24);
+  transform: translateY(-1px);
+  color: var(--app-text);
+}
+.btn:active {
+  transform: translateY(0);
+}
+.btn:focus {
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.16) !important;
+}
+
+/* Bootstrap button variants (Create/Edit use btn-primary, Delete uses btn-danger) */
+.btn-primary {
+  background: var(--app-accent-2) !important;
+  border-color: rgba(2, 6, 23, 0.10) !important;
+  color: #fff !important;
+}
+.btn-primary:hover {
+  filter: brightness(1.02);
+}
+.btn-danger {
+  background: var(--app-danger) !important;
+  border-color: rgba(2, 6, 23, 0.10) !important;
+  color: #fff !important;
+}
+
+/* Bootstrap form controls (Create/Edit pages) */
+.form-group {
+  margin-bottom: 12px;
+}
+.control-label,
+label {
+  font-weight: 650;
+  color: rgba(15, 23, 42, 0.86);
+  margin-bottom: 6px;
+}
+.form-control {
+  border-radius: var(--app-radius-sm);
+  border: 1px solid rgba(15, 23, 42, 0.14);
+  background: #ffffff;
+  color: var(--app-text);
+  padding: 10px 12px;
+}
+.form-control:focus {
+  border-color: rgba(37, 99, 235, 0.55);
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.16);
+}
+.text-danger {
+  font-size: 0.88rem;
+}
+
+/* Tables used by Students/Index.cshtml */
+.tbl {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border-radius: 14px;
+  border: 1px solid var(--app-border);
+  margin-top: 12px;
+  box-shadow: 0 4px 10px rgba(15, 23, 42, 0.04);
+}
+.tbl thead th {
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: rgba(15, 23, 42, 0.92);
+  background: #f9fafb;
+  border-bottom: 1px solid var(--app-border);
+  padding: 12px 12px;
+}
+.tbl td {
+  padding: 12px 12px;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+  vertical-align: middle;
+}
+.tbl tbody tr {
+  background: #ffffff;
+}
+.tbl tbody tr:nth-child(2n) {
+  background: rgba(15, 23, 42, 0.03);
+}
+.tbl tbody tr:hover {
+  background: rgba(56, 189, 248, 0.14);
+}
+
+/* Make action buttons look like pills in the table */
+.tbl td a.btn {
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: rgba(37, 99, 235, 0.06);
+  border-color: rgba(37, 99, 235, 0.16);
+}
+.tbl td a.btn:hover {
+  background: rgba(37, 99, 235, 0.10);
+  border-color: rgba(37, 99, 235, 0.22);
+}
+
+/* Status chips on Students index */
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.status-pill--active {
+  background: rgba(22, 163, 74, 0.08);
+  color: #166534;
+  border: 1px solid rgba(22, 163, 74, 0.30);
+}
+.status-pill--inactive {
+  background: rgba(148, 163, 184, 0.18);
+  color: #475569;
+  border: 1px solid rgba(148, 163, 184, 0.40);
+}
+
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;

@@ -6129,11 +6129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roys9\\Downloads\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "projectUniqueName": "C:\\CS\\LPU-dotnet\\Mar02\\StudentPortal\\StudentPortal.csproj",
       "projectName": "StudentPortal",
-      "projectPath": "C:\\Users\\roys9\\Downloads\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+      "projectPath": "C:\\CS\\LPU-dotnet\\Mar02\\StudentPortal\\StudentPortal.csproj",
       "packagesPath": "C:\\Users\\roys9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roys9\\Downloads\\StudentPortal\\StudentPortal\\obj\\",
+      "outputPath": "C:\\CS\\LPU-dotnet\\Mar02\\StudentPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

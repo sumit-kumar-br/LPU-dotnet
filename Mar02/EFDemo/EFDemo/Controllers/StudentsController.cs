@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,7 +14,6 @@ namespace EFDemo.Controllers
 {
     public class StudentsController : Controller
     {
-        private readonly StudentPortalDbContext _context;
         private readonly IStudentService _service;
 
         public StudentsController(IStudentService service)
@@ -36,6 +35,14 @@ namespace EFDemo.Controllers
             //return View(await _context.Students.ToListAsync());
         }
 
+        // GET: /Students/Search?q=...
+        [HttpGet]
+        public async Task<IActionResult> Search(string q = null)
+        {
+            var items = await _service.SearchAsync(q);
+            return Json(items);
+        }
+
         // GET: Students/Details/5
         public async Task<IActionResult> Details(int? id)
         {
@@ -44,8 +51,7 @@ namespace EFDemo.Controllers
                 return NotFound();
             }
 
-            var student = await _context.Students
-                .FirstOrDefaultAsync(m => m.StudentId == id);
+            var student = await _service.GetByIdAsync(id.Value);
             if (student == null)
             {
                 return NotFound();
@@ -67,13 +73,12 @@ namespace EFDemo.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("StudentId,FullName,Email,Phone,Status,JoinDate,CreatedAt")] Student student)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                _context.Add(student);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return View(student);
             }
-            return View(student);
+            await _service.AddAsync(student);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Students/Edit/5
@@ -84,7 +89,7 @@ namespace EFDemo.Controllers
                 return NotFound();
             }
 
-            var student = await _context.Students.FindAsync(id);
+            var student = await _service.GetByIdAsync(id.Value);
             if (student == null)
             {
                 return NotFound();
@@ -104,27 +109,49 @@ namespace EFDemo.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
+            //if (ModelState.IsValid)
+            //{
+            //    try
+            //    {
+            //        _context.Update(student);
+            //        await _context.SaveChangesAsync();
+            //    }
+            //    catch (DbUpdateConcurrencyException)
+            //    {
+            //        if (!StudentExists(student.StudentId))
+            //        {
+            //            return NotFound();
+            //        }
+            //        else
+            //        {
+            //            throw;
+            //        }
+            //    }
+            //    return RedirectToAction(nameof(Index));
+            //}
+            //return View(student);
+            if (!ModelState.IsValid)
             {
-                try
-                {
-                    _context.Update(student);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!StudentExists(student.StudentId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
+                return View(student);
             }
-            return View(student);
+            try
+            {
+                await _service.UpdateAsync(student);
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                var students = await _service.SearchAsync();
+                if (!students.Any(s => s.StudentId == student.StudentId))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Students/Delete/5
@@ -135,8 +162,7 @@ namespace EFDemo.Controllers
                 return NotFound();
             }
 
-            var student = await _context.Students
-                .FirstOrDefaultAsync(m => m.StudentId == id);
+            var student = await _service.GetByIdAsync(id.Value);
             if (student == null)
             {
                 return NotFound();
@@ -148,21 +174,15 @@ namespace EFDemo.Controllers
         // POST: Students/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(int studentId)
         {
-            var student = await _context.Students.FindAsync(id);
-            if (student != null)
-            {
-                _context.Students.Remove(student);
-            }
-
-            await _context.SaveChangesAsync();
+            await _service.DeleteAsync(studentId);
             return RedirectToAction(nameof(Index));
         }
 
-        private bool StudentExists(int id)
+        private Task<bool> StudentExists(int id)
         {
-            return _context.Students.Any(e => e.StudentId == id);
+            return _service.StudentExistsAsync(id);
         }
     }
 }

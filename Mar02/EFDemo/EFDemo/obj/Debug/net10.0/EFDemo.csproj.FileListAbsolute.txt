@@ -147,7 +147,6 @@ C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\rjsmcshtml.dswa.cache.jso
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\scopedcss\bundle\EFDemo.styles.css
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\scopedcss\projectbundle\EFDemo.bundle.scp.css
-C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\compressed\yzt6a5tkjh-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\compressed\24881qgpvf-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\compressed\of1njtkap0-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\compressed\54neuu3dlh-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -337,3 +336,4 @@ C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CS\LPU-dotnet\Mar02\EFDemo\EFDemo\obj\Debug\net10.0\compressed\yzt6a5tkjh-{0}-cv0ikl7j4f-cv0ikl7j4f.gz

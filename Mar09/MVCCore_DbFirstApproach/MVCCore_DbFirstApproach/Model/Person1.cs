@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace MVCCore_DbFirstApproach.Model;
+
+public partial class Person1
+{
+    public int Id { get; set; }
+
+    public string Name { get; set; } = null!;
+
+    public int? Age { get; set; }
+
+    public string? Address { get; set; }
+
+    public string? PhoneNo { get; set; }
+}

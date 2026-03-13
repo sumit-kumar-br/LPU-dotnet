@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens; // Used for validating and signing JWT tokens
+using Microsoft.OpenApi.Models; // Defines OpenAPI metadata for Swagger auth configuration
 using System.Text; // Used to convert JWT secret key into byte format
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,7 +16,36 @@ var builder = WebApplication.CreateBuilder(args);
 // Registers controllers so the application can handle API requests
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(options =>
+{
+    // Adds JWT bearer scheme so Swagger can send Authorization header to protected endpoints.
+    options.SwaggerDoc("v1", new OpenApiInfo { Title = "JWTAuthentication API", Version = "v1" });
+    options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        Scheme = "bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = "Enter JWT token as: Bearer {your token}"
+    });
+
+    // Applies the bearer scheme globally so the Authorize button works for secured actions.
+    options.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+});
 
 // Registers the database context and connects it to SQL Server
 builder.Services.AddDbContext<ApplicationDbContext>(options =>

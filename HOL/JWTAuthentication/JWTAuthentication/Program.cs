@@ -14,6 +14,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Registers controllers so the application can handle API requests
 builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 // Registers the database context and connects it to SQL Server
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -54,6 +56,8 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 // Enables routing so requests can be matched to endpoints

@@ -1,0 +1,53 @@
+@{
+    ViewData["Title"] = "Teacher Dashboard";
+}
+
+<h2 class="page-title mb-3">Teacher Dashboard</h2>
+
+<div class="row g-3 mb-4">
+    <div class="col-md-4">
+        <div class="card p-3 bg-light">
+            <h6>Total Departments</h6>
+            <h3>@ViewBag.DepartmentCount</h3>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card p-3 bg-light">
+            <h6>Total Courses</h6>
+            <h3>@ViewBag.CourseCount</h3>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card p-3 bg-light">
+            <h6>Total Students</h6>
+            <h3>@ViewBag.StudentCount</h3>
+        </div>
+    </div>
+</div>
+
+<div class="row g-3 mb-4">
+    <div class="col-md-4"><a asp-controller="Department" asp-action="Index" class="btn btn-outline-primary w-100 py-3">Manage Departments</a></div>
+    <div class="col-md-4"><a asp-controller="Course" asp-action="Index" class="btn btn-outline-primary w-100 py-3">Manage Courses</a></div>
+    <div class="col-md-4"><a asp-controller="Student" asp-action="Index" class="btn btn-outline-primary w-100 py-3">Manage Students</a></div>
+</div>
+
+<div class="card p-3">
+    <h5>Students Per Department</h5>
+    <table class="table table-striped table-bordered mt-2">
+        <thead>
+            <tr>
+                <th>Department</th>
+                <th>Total Students</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var row in ViewBag.StudentsPerDepartment)
+            {
+                <tr>
+                    <td>@row.DepartmentName</td>
+                    <td>@row.StudentCount</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

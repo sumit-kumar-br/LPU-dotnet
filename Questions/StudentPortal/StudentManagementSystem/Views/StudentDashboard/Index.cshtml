@@ -1,0 +1,30 @@
+@model StudentManagementSystem.ViewModels.StudentProfileViewModel
+@{
+    ViewData["Title"] = "Student Dashboard";
+}
+
+<h2 class="page-title mb-3">Student Dashboard</h2>
+
+<div class="row g-3">
+    <div class="col-lg-6">
+        <div class="card p-4 h-100">
+            <h5 class="mb-3">My Profile</h5>
+            <p><strong>Name:</strong> @Model.StudentName</p>
+            <p><strong>Email:</strong> @Model.Email</p>
+            <p><strong>Phone Number:</strong> @Model.PhoneNumber</p>
+            <p><strong>Address:</strong> @Model.Address</p>
+            <p><strong>Department:</strong> @Model.DepartmentName</p>
+            <p><strong>Course:</strong> @Model.CourseName</p>
+            <a asp-action="Profile" class="btn btn-primary mt-2">Update Profile</a>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="card p-4 h-100">
+            <h5 class="mb-3">Course Details</h5>
+            <p><strong>Course Name:</strong> @Model.CourseName</p>
+            <p><strong>Duration:</strong> @Model.CourseDuration</p>
+            <p><strong>Fees:</strong> @Model.CourseFees.ToString("C")</p>
+            <p><strong>Department:</strong> @Model.DepartmentName</p>
+        </div>
+    </div>
+</div>

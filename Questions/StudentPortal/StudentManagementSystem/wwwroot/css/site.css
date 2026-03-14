@@ -1,0 +1,45 @@
+:root {
+  --app-primary: #0b5ed7;
+  --app-bg: #f5f8ff;
+}
+
+html {
+  font-size: 15px;
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #eef4ff 0%, #f9fbff 100%);
+}
+
+.card {
+  border: 0;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(13, 39, 80, 0.08);
+}
+
+.table thead th {
+  background-color: #edf3ff;
+  border-bottom: 0;
+}
+
+.footer {
+  padding: 14px 0;
+  background: #ffffff;
+  border-top: 1px solid #dee2e6;
+}
+
+.page-title {
+  font-weight: 700;
+  color: #16355c;
+}
+
+.action-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+}

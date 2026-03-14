@@ -1,0 +1,32 @@
+@model StudentManagementSystem.Models.Department
+@{
+    ViewData["Title"] = "Edit Department";
+}
+
+<h2 class="page-title mb-3">Edit Department</h2>
+
+<div class="card p-4">
+    <form asp-action="Edit" method="post">
+        <input asp-for="DepartmentId" type="hidden" />
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
+
+        <div class="mb-3">
+            <label asp-for="DepartmentName" class="form-label"></label>
+            <input asp-for="DepartmentName" class="form-control" />
+            <span asp-validation-for="DepartmentName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
